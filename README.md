@@ -3,8 +3,8 @@
 ## Laravel-Notification Via Mail
 
 - Set Up Database And Mail Config in .env
-- Register User or Login user
 - composer install && npm install && npm run dev && php artisan migrate:fresh && php artisan serve
+- Register User or Login user
 - Visit **[localhost/send-notification](http://127.0.0.1:8000/send-notification)**
 - Check Mail
 - You Can Use Trap Mail For Testing Purpose Of Mail.
